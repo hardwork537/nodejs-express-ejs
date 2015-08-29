@@ -1,0 +1,43 @@
+.form-signin {
+  padding: 30px 50px 30px 35px; width:500px; /*float:left; */
+}
+
+.form-signin .form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px; line-height:20px;
+}
+
+.topbg{ height:400px; background-color:#2989DD;}
+.signinitem{ width:600px;  margin:-380px auto 0; }
+.signinitem_in{background-color:#fff; height:415px; padding:60px 15px 60px 25px; -webkit-box-shadow: 0 5px 5px #ccc;
+  box-shadow: 0 5px 5px #ccc;}
+.signinitem_in *{ font-size:12px;}
+.logo{ font-size:60px; color:#FFFFFF;font-family:\5fae\8f6f\96c5\9ed1;
+    /*text-align: center;*/
+    padding-bottom: 10px;
+}
+.logo strong{
+    margin-right: 10px;
+    font-size: 40px;
+}
+.logo span{ font-size:24px; margin-left:5px; /*position:relative; top:-3px;*/}
+label{ font-weight:normal; font-size:12px; line-height:30px;}
+.col-sm-2,.col-sm-10,.col-sm-5{ padding:0;}
+
+.btn-success{ font-weight:bold; padding:9px 103px 7px;
+    font-size: 16px;
+}
+.input-group-addon{ background-color:#fff;  color:#ADADAD;  border-bottom-right-radius: 2px; border-top-right-radius: 2px;}
+.input-group .form-control:first-child, .input-group-addon:first-child, .input-group-btn:first-child > .btn, .input-group-btn:first-child > .dropdown-toggle, .input-group-btn:last-child > .btn:not(:last-child):not(.dropdown-toggle)
+{ border-right:none;}
+.form-control{    box-shadow: 0 0 0 #fff inset;}
+.form-control:focus{ box-shadow: 0 0 0 #fff inset; }
+.font-gray{  color: #ADADAD;}
+
+a{ cursor:pointer;}
+.vm{ vertical-align:middle;}
+
+.foot{ text-align:center; color:#999; margin-top:30px;  font-size:12px;}
+.form-control{ line-height:20px;}
